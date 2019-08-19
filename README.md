@@ -1,6 +1,11 @@
 # MASM
-Demo binary file for reverse engineering
-The binary file in this repo **output1.bin** was created with a Microsoft Windows based compiler
+This repo contains:
+* A tutorial which contains instructions to follow in order to complete tasks that will allow a report to be written
+* A Capture-The-Flag report template; and
+* A binary file that needs to be analysed and changed to complete the tutorial tasks.
+
+## Demo binary file for reverse engineering
+The binary file in this repo **output1.bin** was created with a Microsoft Windows based compiler. <br>
 Below are a list of questions for this binary object, which will form the body of the **Capture the Flag** report
 
 Find the answers to these questions
