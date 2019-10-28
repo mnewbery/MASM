@@ -1,6 +1,6 @@
 # MASM
 This repo contains:
-* * A binary file that needs to be analysed to complete the tutorial tasks.
+* A binary file that needs to be analysed to complete the tutorial tasks.
 
 ## Demo binary file for analysis
 The binary file in this repo **hang_in_there.exe** was created with a Microsoft Windows based compiler. <br>
